@@ -1,3 +1,5 @@
+library(ggplot2)
+
 EmpDistribution = function(x){
   k = length(x)
   p = 1:k
